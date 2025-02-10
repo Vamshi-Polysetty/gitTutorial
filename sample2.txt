@@ -1,2 +1,3 @@
 This is a sample text file, text is ok.Updating the file. Some new code changes updating...
 code changes in master.
+new code changes.
